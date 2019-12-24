@@ -1,0 +1,50 @@
+/*表头布局css*/
+	*{
+		padding: 0;
+		margin: 0;
+	}
+	body{
+		background-image: url(../images/cy01.jpg);
+		background-repeat:no-repeat;
+		background-size: cover;
+	}
+	.all{
+		width:1200px;
+		position: relative;
+    	padding-bottom: 0;
+    	height: 100%;
+		text-align:center;
+	}
+	.top{width:1535px;
+		height:45px;
+		background-color:#631f84;
+	}
+	.top1{float:right;
+		  margin-right:127px;
+		  margin-top:12px;
+          font-size:0.9em;
+          color:#ffffff;
+	}
+	.top2{float:right;
+		  margin-top:12px;
+          font-size:0.9em;
+          color:#ffffff;
+	}
+	.img0{
+		float:left;
+		margin-left:150px;
+		margin-top:7.5px;
+	}
+	.img1{
+		float:left;
+		margin-left:120px;
+		margin-top:7.5px;
+	}
+	.a1{
+		text-decoration:none;
+		color:#ffffff;
+		font-size:0.9em;
+	}
+	.a1:hover{
+		color:#fb05b8;
+	}

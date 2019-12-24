@@ -1,0 +1,40 @@
+#box{
+	width:750px;
+	height:400px;
+	position:relative; 
+	margin:100px auto;
+	/*border: 1px solid white;*/
+}
+	#img1{
+		width:300px;
+		height:300px;
+		position:absolute;
+		left:0;
+		top:0;
+		opacity:0.8;
+	}
+	#slider{
+		width:150px;
+		height:150px;
+		position:absolute;
+		left:0;
+		top:0;
+		background:#CCC;
+		opacity:0.4;
+		cursor: move;
+		display:none; 
+		filter:alpha(opacity=40);}
+	#img2{
+		position:absolute;
+		right:0;
+		top:0;
+		display:none; 
+		width:400px;
+		height:400px;
+		overflow:hidden;
+		opacity:0.8;
+	}
+	#Bimg{
+		position:absolute;
+		left:0;top:0;
+	}

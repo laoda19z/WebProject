@@ -1,0 +1,58 @@
+/*注册框css*/
+		.box{
+			width: 300px;
+			height: 480px;
+			padding: 0 20px;
+			border: 2px solid #fb47b5;
+			margin: 50px auto;
+			background:white;
+		}
+		.tit{
+			margin-top: 5px;
+			margin-bottom: 30px;
+		}
+		.brand{
+			color: #fb47b5;
+			font-size: 18px;
+			margin-right: 20px;
+		}
+		.inp{
+			width: 100%;
+			height: 40px;
+			text-indent: 8px;
+		}
+		.notice{
+			height: 30px;
+			line-height: 30px;
+			font-size: 12px;
+		}
+
+		.code{
+			width: 60%;
+		}
+		.getCode{
+			width: 35%;
+			height: 44px;
+			float: right;
+			border: none;
+			background-color: #eee;
+		}
+		.codeImg{
+			margin-top:10px;
+			height: 40px;
+		}
+		.btn{
+			background: #fb47b5;
+			width: 100%;
+			height: 40px;
+			border: none;
+			margin-top: 8px;
+			color: #fff;
+			border-radius: 3px;
+		}
+		.pic1{
+			width:200px;
+			height:200px;
+			float:right;
+			margin-top:-400px;
+		}
